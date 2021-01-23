@@ -1,0 +1,14 @@
+{
+  "name": "starwars-express",
+  "version": "1.0.0",
+  "description": "Star Wars App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DavidESotomayor",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
